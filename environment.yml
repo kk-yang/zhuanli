@@ -7,11 +7,9 @@ dependencies:
   - ipython=7.2.0=py37h39e3cac_0
   - ipywidgets=7.4.2=py37_0
   - pip:
-    - jupyter-echarts-pypkg==0.1.2
     - numpy==1.16.3
     - pyecharts==1.2.0
     - snapshot-phantomjs==0.0.3
     - pandas
-    - math
     - Ipython
 prefix: C:\Users\kangk\AppData\Local\Continuum\anaconda3
