@@ -5,7 +5,7 @@
     - ipywidgets
     - numpy
     - pandas
-  - pip3:
+  - pip:
     - math
     - pyecharts
     - snapshot_phantomjs
