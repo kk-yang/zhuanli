@@ -1,6 +1,6 @@
 ﻿dependencies:
   - python = 3
-  - pip:
+  - conda:
     - Ipython
     - ipywidgets
     - numpy
