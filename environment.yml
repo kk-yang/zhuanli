@@ -1,0 +1,10 @@
+﻿dependencies:
+  - python = 3
+  - pip:
+    - Ipython
+    - ipywidgets
+    - numpy
+    - pandas
+    - math
+    - pyecharts
+    - snapshot_phantomjs
